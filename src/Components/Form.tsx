@@ -42,7 +42,7 @@ export default function Form() {
                 onSubmit={handleSubmit}
                 className="bg-white p-8 rounded-lg shadow-md w-96"
             >
-                <h2 className="text-2xl font-bold mb-6 text-center">Sign Up</h2>
+                <h2 className="text-2xl font-bold mb-6 text-center">Feedback Form</h2>
 
                 <div className="mb-4">
                     <label htmlFor="name" className="block text-sm font-medium text-gray-700">Full Name</label>
